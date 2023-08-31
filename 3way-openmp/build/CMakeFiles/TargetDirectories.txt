@@ -1,0 +1,3 @@
+/homes/ronnyim12345/3way-openmp/build/CMakeFiles/rebuild_cache.dir
+/homes/ronnyim12345/3way-openmp/build/CMakeFiles/hw4_openmp.dir
+/homes/ronnyim12345/3way-openmp/build/CMakeFiles/edit_cache.dir

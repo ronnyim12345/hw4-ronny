@@ -1,0 +1,1 @@
+/opt/software/software/GCCcore/9.3.0/bin/cc -std=c11 -Wall -Wextra -Wshadow -Werror -D_XOPEN_SOURCE=500  -rdynamic CMakeFiles/hw4_pthread.dir/src/main.c.o  -o hw4_pthread  -lpthread 

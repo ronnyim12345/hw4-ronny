@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/homes/ronnyim12345/3way-mpi/src/main.c
+mpi.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+fcntl.h
+-
+string.h
+-
+unistd.h
+-
+stdbool.h
+-
+stdint.h
+-
+
+/opt/software/software/OpenMPI/4.0.3-GCC-9.3.0/include/mpi.h
+stddef.h
+-
+mpi_portable_platform.h
+/opt/software/software/OpenMPI/4.0.3-GCC-9.3.0/include/mpi_portable_platform.h
+openmpi/ompi/mpi/cxx/mpicxx.h
+/opt/software/software/OpenMPI/4.0.3-GCC-9.3.0/include/openmpi/ompi/mpi/cxx/mpicxx.h
+
+/opt/software/software/OpenMPI/4.0.3-GCC-9.3.0/include/mpi_portable_platform.h
+omp.h
+/opt/software/software/OpenMPI/4.0.3-GCC-9.3.0/include/omp.h
+omp.h
+/opt/software/software/OpenMPI/4.0.3-GCC-9.3.0/include/omp.h
+
